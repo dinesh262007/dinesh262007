@@ -7,13 +7,13 @@
   </p>
   
   <p align="center">
-    <a href="https://linkedin.com/in/dinesh-baratam" target="_blank">
+    <a href="[https://linkedin.com/in/dinesh-baratam](https://www.linkedin.com/in/dinesh-baratam-3116b9324/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/dinesh262007" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="mailto:dineshbaratam@email.com" target="_blank">
+    <a href="mailto:dineshbaratam26@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -129,11 +129,6 @@
 
 <!-- GitHub Stats with TokyoNight theme -->
 <h3>📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh262007&show_icons=true&theme=tokyonight&locale=en" alt="Dinesh's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh262007&layout=compact&theme=tokyonight" alt="Dinesh's Top Languages" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dinesh262007&theme=tokyonight" alt="Dinesh's GitHub Streak" />
 </p>
